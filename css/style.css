@@ -23,6 +23,9 @@ body{
     }
 }
 
-/* .alert{
-    background-color: black;
-} */
+.box{
+    margin-top: 33px;
+}
+.typing{
+    height: 75px;
+}
